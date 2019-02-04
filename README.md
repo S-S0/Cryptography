@@ -17,8 +17,12 @@ Foot Coding 뜻처럼 정확한 동작은 보증하지 못하니 사용에 주�
 
 **01. Diffie-Hellman Key Exchange.py**
 
+###### Simple Diffie–Hellman Key Exchange Example With Python
+
 > Diffie-Hellman 키 교환 방식을 구현해 봤습니다.
 
 **02. Public Key Cryptography.py**
+
+###### Simple Public Key Cryptography Example With Python
 
 > 공개키 암호 방식을 구현해 봤습니다.
